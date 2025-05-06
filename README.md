@@ -7,8 +7,9 @@
 
 ## 🔍 About Me
 
-I’m a Computer Engineering student passionate about **data science** and **cybersecurity**. I’ve built various projects using machine learning techniques, including **breast cancer detection**, **spam message classification**, and **network vulnerability scanners**. I enjoy solving real-world problems using code and am currently enhancing my skills in cloud computing, security, and ML model deployment.
+I am a Computer Engineering student with a strong passion for **data science**, **cybersecurity**, and **machine learning**. I thrive on solving real-world problems through innovative coding solutions and have developed projects like **Crop Yield Prediction System**, **Intrusion Detection System**, and **Port Scanner**. 
 
+Currently, I am expanding my expertise in **cloud computing**, **security automation**, and **ML model deployment**. My goal is to leverage technology to create impactful solutions that address complex challenges in cybersecurity and data analytics.
 ---
 
 ## 🚀 My Projects
@@ -21,37 +22,26 @@ Predicts crop yield using weather and soil analytics powered by Random Forest Re
 Recommends the best crop based on real-time weather and soil conditions.  
 **Tech Stack:** Python, ML, Weather API
 
-### 🔐 [Intrusion Detection System (IDS) Using ML](https://github.com/yourusername/ids-ml)
+### 🔐 [Intrusion Detection System (IDS) Using ML](https://github.com/krupal-savalia/IDS-ml)
 Detects anomalous network activity using supervised learning models.  
 **Tech Stack:** Python, Scikit-learn, Pandas
 
-### 📊 [Data Visualization Dashboard](https://github.com/yourusername/data-viz-dashboard)
-Visualizes soil and yield analytics using Plotly Dash with interactive graphs.  
-**Tech Stack:** Python, Dash, Pandas
-
-### 🏡 [House Price Prediction](https://github.com/yourusername/house-price-predictor)
-Estimates house prices based on various features using regression techniques.  
-**Tech Stack:** Python, Scikit-learn
-
-### 🎗 [Breast Cancer Detection](https://github.com/yourusername/breast-cancer-detector)
-Classifies breast cancer as benign or malignant using ML models.  
-**Tech Stack:** Python, Pandas, ML
-
-### ✉️ [Spam Message Detection](https://github.com/yourusername/spam-detector)
-Filters spam messages using text classification algorithms.  
-**Tech Stack:** Python, NLP, Scikit-learn
-
-### 🧪 [Port Scanner for Vulnerability Assessment](https://github.com/yourusername/port-scanner)
+### 🧪 [Port Scanner for Vulnerability Assessment](https://github.com/krupal-savalia/Port-Scanner)
 A custom port scanner that helps detect open ports and assess network vulnerabilities.  
 **Tech Stack:** Python, Socket Programming
+
+### 🛡️ [VAPT Automation Tool](https://github.com/krupal-savalia/VAPT-Automation-Tool)
+Automates vulnerability assessment and penetration testing tasks, streamlining the process for security professionals.  
+**Tech Stack:** Python, Bash, Nmap, Metasploit
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, SQL, Shell Scripting  
-- **Tools & Technologies:** HTML, CSS, Linux, IAM, Git  
-- **Fields:** Cybersecurity, Data Science, Machine Learning
+- **Programming Languages:** Python, Java, SQL, Shell Scripting  
+- **Tools & Technologies:** VAPT, Nmap, Metasploit, Git, HTML, CSS, Linux, IAM  
+- **Domains:** Cybersecurity, Data Science, Machine Learning, Cloud Computing  
+- **Soft Skills:** Problem Solving, Team Collaboration, Critical Thinking
 
 ---
 
@@ -61,10 +51,5 @@ A custom port scanner that helps detect open ports and assess network vulnerabil
 - 🌐 LinkedIn: [linkedin.com/in/krupal-savaliya-1469a9305](https://linkedin.com/in/krupal-savaliya-1469a9305)  
 - 🗂 Resume: [View PDF](./KrupalSavaliyaResume.pdf)
 
----
 
-## 📈 GitHub Stats (Optional)
-
-![Krupal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krupal-savalia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krupal-savalia&layout=compact&theme=radical)
 
