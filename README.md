@@ -8,7 +8,9 @@
 ## 🔍 About Me
 
 I am a Computer Engineering student with a strong passion for **data science**, **cybersecurity**, and **machine learning**. I thrive on solving real-world problems through innovative coding solutions and have developed projects like **Crop Yield Prediction System**, **Intrusion Detection System**, and **Port Scanner**.
+
 Currently, I am expanding my expertise in **cloud computing**, **security automation**, and **ML model deployment**. My goal is to leverage technology to create impactful solutions that address complex challenges in cybersecurity and data analytics.
+
 ---
 
 ## 🚀 My Projects
