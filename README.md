@@ -31,10 +31,6 @@ Detects anomalous network activity using supervised learning models.
 A custom port scanner that helps detect open ports and assess network vulnerabilities.  
 **Tech Stack:** Python, Socket Programming
 
-### 🛡️ [VAPT Automation Tool](https://github.com/krupal-savalia/VAPT-Automation-Tool)
-Automates vulnerability assessment and penetration testing tasks, streamlining the process for security professionals.  
-**Tech Stack:** Python, Bash, Nmap, Metasploit
-
 ---
 
 ## 🛠️ Skills
