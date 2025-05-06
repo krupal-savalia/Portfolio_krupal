@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krupal Savaliya
 
-🎓 Computer Engineering Student | 🧠 Cybersecurity Enthusiast | 🔐 ML Explorer  
+🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🧠 ML Explorer  
 📍 Rajkot, Gujarat, India | 📧 krupalsavalia2003@gmail.com | 📱 +91-7435970754
 
 ---
@@ -37,7 +37,7 @@ A custom port scanner that helps detect open ports and assess network vulnerabil
 
 - **Programming Languages:** Python, Java, SQL, Shell Scripting  
 - **Tools & Technologies:** VAPT, Nmap, Metasploit, Git, HTML, CSS, Linux, IAM  
-- **Domains:** Cybersecurity, Data Science, Machine Learning, Cloud Computing  
+- **Domains:** Cybersecurity, Data Science, Machine Learning 
 - **Soft Skills:** Problem Solving, Team Collaboration, Critical Thinking
 
 ---
