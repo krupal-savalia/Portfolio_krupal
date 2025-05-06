@@ -13,6 +13,15 @@ Currently, I am expanding my expertise in **cloud computing**, **security automa
 
 ---
 
+## 🛠️ Skills
+
+- **Programming Languages:** Python, Java, SQL, Shell Scripting  
+- **Tools & Technologies:** VAPT, Nmap, Metasploit, Git, HTML, CSS, Linux, IAM  
+- **Domains:** Cybersecurity, Data Science, Machine Learning 
+- **Soft Skills:** Problem Solving, Team Collaboration, Critical Thinking
+ 
+---
+
 ## 🚀 My Projects
 
 ### 🌾 [Crop Yield Prediction System](https://github.com/krupal-savalia/yield-prediction-system)
@@ -33,12 +42,11 @@ A custom port scanner that helps detect open ports and assess network vulnerabil
 
 ---
 
-## 🛠️ Skills
+### 🏆 Certifications & Achievements
 
-- **Programming Languages:** Python, Java, SQL, Shell Scripting  
-- **Tools & Technologies:** VAPT, Nmap, Metasploit, Git, HTML, CSS, Linux, IAM  
-- **Domains:** Cybersecurity, Data Science, Machine Learning 
-- **Soft Skills:** Problem Solving, Team Collaboration, Critical Thinking
+- [Certificate Name] – [Issuing Organization]
+- Completed [Course Name] on [Platform]
+- Finalist at [Hackathon/Event Name] – [Year]
 
 ---
 
